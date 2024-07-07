@@ -1,2 +1,2 @@
 # aws-projects
-small projects on aws 
+sample projects on different aws services
